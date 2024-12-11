@@ -1,4 +1,4 @@
-# Tugas 11: Node.js CRUD dengan MySQL
+# Tugas 10: Node.js CRUD dengan MySQL
 
 **Nama**: M. Sechan Alfarisi  
 **Kelas**: TI23A  
