@@ -7,14 +7,6 @@ const connection = mysql.createConnection({
  database: 'db_sehan_ti23a'
 }); 
 
-// db.getConnection((err, connection) => {
-//     if (err) {
-//         console.error('Error connecting to database:', err);
-//     } else {
-//         console.log('Connected to database');
-//         connection.release();
-//     }
-// });
 
 connection.connect((err) => {
     if (err) {
