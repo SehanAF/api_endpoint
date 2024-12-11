@@ -10,10 +10,17 @@ Tugas ini merupakan implementasi sederhana dari operasi **CRUD (Create, Read, Up
 
 ## Endpoint CRUD
 
-### 1. **GET**: Mendapatkan Data Mahasiswa
+### 1. **POST**: Menambahkan Data Mahasiswa
+Menambahkan data mahasiswa baru ke dalam database.  
+**Screenshot**:  
+![POST Endpoint](https://github.com/user-attachments/assets/f9327a78-43a5-4f23-9058-9433ef83c91f)
+
+---
+
+### 2. **GET**: Mendapatkan Seluruh Data Mahasiswa
 Mengembalikan semua data mahasiswa dari database.  
 **Screenshot**:  
-![GET Endpoint](https://github.com/user-attachments/assets/ab5d5598-3e41-4412-9bdd-73e27df4d906)
+![GET Endpoint](https://github.com/user-attachments/assets/f81e8805-309f-4052-87fd-5f5df5657a65)
 
 ---
 
