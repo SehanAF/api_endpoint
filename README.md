@@ -1,4 +1,4 @@
-# Tugas 9: Node.js CRUD dengan MySQL
+# Tugas 11: Node.js CRUD dengan MySQL
 
 **Nama**: M. Sechan Alfarisi  
 **Kelas**: TI23A  
@@ -24,9 +24,22 @@ Mengembalikan semua data mahasiswa dari database.
 
 ---
 
-### 3. **POST**: Mendapatkan Data Mahasiswa sesuai NIM
+### 3. **GET**: Mendapatkan Data Mahasiswa sesuai NIM
 Mengambil data mahasiswa sesuai nim dari dalam database.  
 **Screenshot**:  
 ![POST Endpoint](https://github.com/user-attachments/assets/ad44e897-50d8-4296-b04f-994b7bd4e3ad)
+
+---
+
+### 4. **PUT**: MeUpdate Data Mahasiswa sesuai NIM
+Mengupdate data mahasiswa sesuai nim dari dalam database.  
+**Screenshot**:  
+![POST Endpoint](https://github.com/user-attachments/assets/7f0d317f-43e1-43b1-a952-6861ca0643f5)
+
+---
+### 5. **DELETE**: Menghapus Data Mahasiswa sesuai NIM
+Menghapus data mahasiswa sesuai nim dari dalam database.  
+**Screenshot**:  
+![POST Endpoint](https://github.com/user-attachments/assets/b7ce3bd3-f392-4680-acc5-ec79d1e70ab5)
 
 ---
