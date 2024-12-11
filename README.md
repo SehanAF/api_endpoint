@@ -4,7 +4,7 @@
 **Kelas**: TI23A  
 
 ## Deskripsi
-Tugas ini adalah implementasi sederhana dari operasi CRUD (Create, Read, Update, Delete) menggunakan Node.js yang terintegrasi dengan database MySQL. Proyek ini juga memanfaatkan **Postman** untuk pengujian endpoint.
+Tugas ini adalah implementasi sederhana dari operasi CRUD (Create, Read, Update, Delete) menggunakan Node.js yang terintegrasi dengan database MySQL. Proyek ini juga memanfaatkan **Postman** untuk pengujian endpoint Mahasiswa dan Dosen.
 
 ---
 
