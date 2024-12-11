@@ -20,13 +20,13 @@ Menambahkan data mahasiswa baru ke dalam database.
 ### 2. **GET**: Mendapatkan Seluruh Data Mahasiswa
 Mengembalikan semua data mahasiswa dari database.  
 **Screenshot**:  
-![GET Endpoint](https://github.com/user-attachments/assets/f81e8805-309f-4052-87fd-5f5df5657a65)
+![GET Endpoint](https://github.com/user-attachments/assets/2432f0a4-8e20-4962-ac56-77dfec18eb64)
 
 ---
 
-### 2. **POST**: Menambahkan Data Mahasiswa
-Menambahkan data mahasiswa baru ke dalam database.  
+### 3. **POST**: Mendapatkan Data Mahasiswa sesuai NIM
+Mengambil data mahasiswa sesuai nim dari dalam database.  
 **Screenshot**:  
-![POST Endpoint]()
+![POST Endpoint](https://github.com/user-attachments/assets/ad44e897-50d8-4296-b04f-994b7bd4e3ad)
 
 ---
