@@ -94,6 +94,6 @@ Endpoint ini digunakan untuk menghapus data dosen dari database berdasarkan NIM.
 ### 6. **GET**: Mendapatkan Data Dosen Setelah Perubahan
 Endpoint ini menampilkan hasil perubahan data dosen yang telah dilakukan melalui langkah-langkah CRUD sebelumnya.
 **Screenshot**:  
-![POST Endpoint](https://github.com/user-attachments/assets/30fbb25a-a9f7-4d83-9a7c-731372bd06d9)
+![POST Endpoint](https://github.com/user-attachments/assets/1f04e68b-478d-4721-93c8-66a93a89b87d)
 
 ---
